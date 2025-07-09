@@ -10,3 +10,8 @@ I'd have to include the ability to save game progress like character stats and p
 -- otherwise, I'd have to do a lot more research into finding data storing. 
 
 I've been working on a few rpg systems a for a while now, as I've had this idea since the beginning of class, so I feel like I actually have a bit of work already drawn out
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+The more I think about this, it sounds quite ambitious. I may change this idea to a more simple game. I've been looking into falling sands simulations, and I think that might be a better fit for this project.
+I would use the same APIs anyway. It's basically the same idea just a little less ambitious. A little more 'scope' sensitive.
